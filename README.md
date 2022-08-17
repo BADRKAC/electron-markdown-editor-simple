@@ -1,29 +1,3 @@
-# Vite Electron Builder Boilerplate
-
-> Vite+Electron = 🔥
-
-This is a template for secure electron applications. Written following the latest safety requirements, recommendations
-and best practices.
-
-Under the hood is [Vite] — A next-generation blazing fast bundler, and [electron-builder] for packaging.
-
-## Get started
-
-Follow these steps to get started with the template:
-
-1. Click the **[Use this template](https://github.com/cawa-93/vite-electron-builder/generate)** button (you must be
-   logged in) or just clone this repo.
-2. If you want to use another package manager don't forget to edit [`.github/workflows`](/.github/workflows) -- it
-   uses `npm` by default.
-
-That's all you need. 😉
-
-**Note**: This template uses npm v7 feature — [**Installing Peer Dependencies
-Automatically**](https://github.com/npm/rfcs/blob/latest/implemented/0025-install-peer-deps.md). If you are using a
-different package manager, you may need to install some peerDependencies manually.
-
-**Note**: Find more useful forks [here](https://github.com/cawa-93/vite-electron-builder/discussions/categories/forks).
-
 ## Features
 
 ### Electron [![Electron version](https://img.shields.io/github/package-json/dependency-version/cawa-93/vite-electron-builder/dev/electron?label=%20)][electron]
